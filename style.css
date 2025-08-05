@@ -1,0 +1,32 @@
+/*universal*/
+
+main>section{
+    width: 100px;
+    height: 100vh;
+}
+main>section{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+main>.caja1{
+    right: 30px;
+    background-color: aqua;
+}
+main>.caja2{
+    right: 30px;
+    background-color: aqua;
+}
+main>.caja3{
+    right: 30px;
+    background-color: aqua;
+}
+main>.caja4{
+    right: 30px;
+    background-color: aqua;
+}
+main>.caja5{
+    right: 30px;
+    background-color: aqua;
+}
